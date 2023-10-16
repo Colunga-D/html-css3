@@ -1,0 +1,116 @@
+body{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(43, 43, 43);
+    flex-direction: column;
+    align-items: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: green;
+    width: 50vw;
+    margin-top: 10vh;
+    
+}
+.allContains{
+   width: 50vw;
+   height: 32vh;
+   display: flex;
+   flex-wrap: wrap;
+   align-content: flex-start;
+}
+.contain1{
+    width: 10vw;
+    height: 8vh;
+    background-color: black;
+}
+.contain2{
+    width: 10vw;
+    height: 8vh;
+    background-color: teal;
+
+}
+.contain3{
+    width: 10vw;
+    height: 8vh;
+    background-color: blue;
+    
+}
+.contain4{
+    width: 10vw;
+    height: 8vh;    
+    background-color: navy;
+}
+.contain5{
+    width: 10vw;
+    height: 8vh;    
+    background-color: lime;
+}
+.contain6{
+    width: 10vw;
+    height: 8vh;  
+    background-color: white;  
+}
+.contain7{
+    width: 10vw;
+    height: 8vh;   
+    background-color: purple;
+}
+.contain8{
+    width: 10vw;
+    height: 8vh;    
+    background-color: yellow;
+}
+.contain9{
+    width: 10vw;
+    height: 8vh;    
+    background-color: olive;
+}
+.contain10{
+    width: 10vw;
+    height: 8vh;    
+    background-color: red;
+}
+.contain11{
+    width: 10vw;
+    height: 8vh;    
+    background-color: black;
+}
+.contain12{
+    width: 10vw;
+    height: 8vh;    
+    background-color: gray;
+}
+.contain13{
+    width: 10vw;
+    height: 8vh;    
+    background-color: olive;
+}
+.contain14{
+    width: 10vw;
+    height: 8vh;    
+    background-color: red;
+}
+.contain15{
+    width: 10vw;
+    height: 8vh;    
+    background-color: fuchsia;
+}
+
+.contain16{
+    width: 10vw;
+    height: 8vh;    
+    background-color: green;
+}
+.LettersColours{
+    
+text-align: center;
+}
+
+.palabras{
+    display: flex;
+    font-size: 3vh;
+}
